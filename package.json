@@ -1,0 +1,19 @@
+{
+  "name": "match3",
+  "version": "1.0.0",
+  "description": "Match 3 game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Gore",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "routes": "^2.1.0",
+    "snapsvg": "^0.5.1"
+  }
+}
